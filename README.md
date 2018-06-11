@@ -1,5 +1,7 @@
 # oo-many-practice-members
 
+(after @aalexander3/oo-many-many-practice)
+
 # Here's our domain:
   * Member
   * Institution
